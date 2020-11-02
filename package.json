@@ -1,0 +1,15 @@
+{
+  "name": "raidcordcli",
+  "version": "1.0.0",
+  "description": "discord raid tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0xD34DF4D3 <me@deadfade.cf>",
+  "license": "ISC",
+  "dependencies": {
+    "sleep-async": "^1.0.5",
+    "snekfetch": "^4.0.4"
+  }
+}
