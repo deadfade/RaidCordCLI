@@ -194,7 +194,7 @@ async function main(){
                             Authorization: t
                         }}).send({content:m}));
                         ended.push(Date.now());
-                    }catch(e){ended.push(Date.now());ended.push(Date.now());}
+                    }catch(e){ended.push(Date.now());}
                 }
             }
             for(let token in tokens){
